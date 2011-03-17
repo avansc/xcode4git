@@ -26,6 +26,7 @@
 		01D3D2B613327484002EE8DB /* gitTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = gitTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		01D3D2BA13327484002EE8DB /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		01D3D2BC13327484002EE8DB /* gitTest.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = gitTest.1; sourceTree = "<group>"; };
+		01D3D2C2133274FA002EE8DB /* dependancies.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dependancies.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 			children = (
 				01D3D2BA13327484002EE8DB /* main.cpp */,
 				01D3D2BC13327484002EE8DB /* gitTest.1 */,
+				01D3D2C2133274FA002EE8DB /* dependancies.h */,
 			);
 			path = gitTest;
 			sourceTree = "<group>";
